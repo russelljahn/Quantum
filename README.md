@@ -11,6 +11,6 @@ Quantum is a side-scrolling adventure about a mad scientist who unwittingly brea
 
 ###*Play The Game:*
 -----
-The game is freely available to play at: http://www.cs.utexas.edu/~wrj322/Quantum/Quantum.html 
+The game is freely available to play at: http://www.cs.utexas.edu/~gamedev/fall2013/Quantum/Quantum.html
 
 *Quantum* requires the Unity Web Player to be installed on your browser, and also requires a mouse and keyboard to play.
